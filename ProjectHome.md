@@ -1,0 +1,1 @@
+Tradução do Raidcall para o português brasileiro.
